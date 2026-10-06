@@ -1,0 +1,93 @@
+[
+    {
+        "id": "120d1ff1",
+        "amount": 350.0,
+        "category": "Education",
+        "description": "color pens",
+        "date": "01-10-2026"
+    },
+    {
+        "id": "27ce6589",
+        "amount": 850.0,
+        "category": "Bills",
+        "description": "internet",
+        "date": "29-09-2026"
+    },
+    {
+        "id": "84a7ef1c",
+        "amount": 1600.0,
+        "category": "Education",
+        "description": "exam fees",
+        "date": "28-09-2026"
+    },
+    {
+        "id": "eb266aa4",
+        "amount": 3800.0,
+        "category": "Food",
+        "description": "party",
+        "date": "02-10-2026"
+    },
+    {
+        "id": "38f52a9d",
+        "amount": 1950.0,
+        "category": "Shopping",
+        "description": "office clothers",
+        "date": "01-10-2026"
+    },
+    {
+        "id": "5371f865",
+        "amount": 2580.0,
+        "category": "Health",
+        "description": "medicines",
+        "date": "30-09-2026"
+    },
+    {
+        "id": "81aca480",
+        "amount": 1650.0,
+        "category": "Entertainment",
+        "description": "movie",
+        "date": "27-09-2026"
+    },
+    {
+        "id": "97b1ee74",
+        "amount": 845.0,
+        "category": "Travel",
+        "description": "metro card",
+        "date": "03-10-2026"
+    },
+    {
+        "id": "bc9a6385",
+        "amount": 2000.0,
+        "category": "Bills",
+        "description": "water",
+        "date": "01-10-2026"
+    },
+    {
+        "id": "5c5f3c7e",
+        "amount": 350.0,
+        "category": "Other",
+        "description": "garbage",
+        "date": "25-09-2026"
+    },
+    {
+        "id": "1da780e1",
+        "amount": 255.0,
+        "category": "Food",
+        "description": "lunch",
+        "date": "03-10-2026"
+    },
+    {
+        "id": "a2887fe6",
+        "amount": 650.0,
+        "category": "Health",
+        "description": "consultation",
+        "date": "03-10-2026"
+    },
+    {
+        "id": "2dd1cdef",
+        "amount": 3600.0,
+        "category": "Education",
+        "description": "books",
+        "date": "01-10-2026"
+    }
+]
